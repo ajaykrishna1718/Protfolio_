@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "../../Project_website1"
+		},
+		{
+			"path": "../../WebDevelopement"
+		},
+		{
+			"path": "../../HTML TUOTRIAL"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../java programming"
+		},
+		{
+			"path": "../../New Project"
+		},
+		{
+			"path": "../../Bootstrap"
+		},
+		{
+			"path": "../../Penguin"
+		},
+		{
+			"path": "../../JavaScript"
+		},
+		{
+			"path": "../../Dices Challange"
+		},
+		{
+			"path": "../../Drums"
+		},
+		{
+			"path": "../../jQuery"
+		},
+		{
+			"path": "../../simion game"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Penguin"
+	}
+}
